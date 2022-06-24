@@ -1,0 +1,11 @@
+/app.js
+/bin
+/node_modules/
+/package-lock.json
+/package.json
+/views
+/config/
+
+.vscode
+.idea
+.config
